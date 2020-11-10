@@ -1,0 +1,35 @@
+<style>
+.YouTube_link {
+  color: red;
+}
+ .link {
+   color:green;
+   text-decoration: none;
+ }
+ h1 {
+   font-size: 300%;
+   text-align: center;
+   border-bottom: 1px solid black;
+   margin: 0;
+   padding: 20px;
+}
+#king {
+  color: orange;
+}
+#grid{
+  display:grid;
+  grid-template-columns: 150px 1fr;
+}
+#grid ul{
+  padding-left: 33px;
+  border-right: 1px solid black;
+  margin:0;
+  padding:20px;
+}
+#grid #article{
+  padding-left: 25px;
+}
+h2 {
+  font-size: 40px;
+}
+</style>
