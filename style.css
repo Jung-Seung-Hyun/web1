@@ -9,7 +9,7 @@
  h1 {
    font-size: 300%;
    text-align: center;
-   border-bottom: 1px solid black;
+   border-bottom: 3px solid lightblue;
    margin: 0;
    padding: 20px;
 }
@@ -22,7 +22,7 @@
 }
 #grid ul{
   padding-left: 33px;
-  border-right: 1px solid black;
+  border-right: 3px solid lightblue;
   margin:0;
   padding:20px;
 }
